@@ -1,6 +1,6 @@
 {
   "name": "Breek",
-  "version": "0.3.2",
+  "version": "0.3.2.1",
   "author": "linmumu",
   "repository": "https://i.immmmm.com/gridea-theme-breek/",
   "customConfig": [
@@ -36,6 +36,7 @@
         { "label": "名称", "name": "siteName", "type": "input", "value": "" },
         { "label": "链接", "name": "siteLink", "type": "input", "value": "" },
         { "label": "Logo（邮箱md5）", "name": "siteLogo", "type": "input", "value": "" },
+        { "label": "LogoUrl（可选）", "name": "siteLogoUrl", "type": "input", "value": ""},
         { "label": "描述", "name": "description", "type": "textarea", "value": "" }
       ],
       "note": "Logo 使用邮箱md5，在线 https://tool.chinaz.com/tools/md5.aspx "
